@@ -1,0 +1,5 @@
+compatibility_date = "2025-01-21"
+[vars]
+DATABASE_URL="postgresql://neondb_owner:npg_V7NKXJ4gxGAW@ep-aged-unit-a8w4idcs.eastus2.azure.neon.tech/neondb?sslmode=require"
+
+JWT_SECRET="f6e8d99b9351436e2f134f65d86a8e831f032fbca583878811c85e49bcd7760b"
