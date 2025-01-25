@@ -1,3 +1,7 @@
+
+![image og blog](https://github.com/user-attachments/assets/93be5b7f-9e58-4bdb-8722-1f7482158cdb)
+
+
 # Project Setup Guide
 
 ## Backend Setup
