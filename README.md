@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/01c75ef1-e894-4c66-afe8-837749d3f7d1)
 
 ![image og blog](https://github.com/user-attachments/assets/93be5b7f-9e58-4bdb-8722-1f7482158cdb)
 
